@@ -1,0 +1,4 @@
+O aplicatie simpla de organizare optimizata, realizata in flutter, cu un meniu care contine 3 sectiuni: 
+-un ecran cu o lista de activitati si sarcini de facut pe care utilizatorul o creeaza
+-un alt ecran (in care e cea de-a doua sectiune) de tip jurnal unde isi poate scrie gandurile sau ideile
+-in al treilea ecran user-ul primeste un quote pe care il poate copia si distribui. 
