@@ -2,5 +2,5 @@
 
 # Proiecte: 
 # 1)Agent DialogFlow
-# 2)Aplicatie in APP INVENTOR
+# 2)Aplicatie in APP INVENTOR - Trip Finder
 # 3)"DAYLER"
