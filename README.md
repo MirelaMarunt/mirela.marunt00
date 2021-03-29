@@ -1,3 +1,6 @@
-Universitatea de Vest din Timisoara - 
-Facultatea de matematica si informatica - 
-Informatica aplicata
+# Universitatea de Vest din Timisoara - Facultatea de matematica si informatica - Informatica aplicata
+
+# Proiecte: 
+# 1)Agent DialogFlow
+# 2)Aplicatie in APP INVENTOR
+# 3)"DAYLER"
